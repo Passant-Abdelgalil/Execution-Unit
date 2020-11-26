@@ -8,7 +8,7 @@ This is a demo of the execution unit built using the simulation program (*Altera
 * AND **Value** with **Register** .
 * AND **Register** with **Register** (The second Register will be updated with the bitwise Anding of the two registers values).
 
-![EU] (EU.JPG)
+![EU](/EU.JPG)
 
 ### Components:
 * Three 4-bit Registers **A**, **B**, **C**.
